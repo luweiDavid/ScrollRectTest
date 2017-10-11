@@ -4,4 +4,9 @@ git is a free software
 test remote func
 creating a new branch is quick!
 
+<<<<<<< HEAD
 conflick master
+=======
+conflict
+>>>>>>> newbranch
+conflict
