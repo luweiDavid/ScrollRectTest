@@ -1,5 +1,5 @@
 git is a dispatch version control system
-git is a free software
+git is  free software
 
 test remote func
 creating a new branch is quick!
