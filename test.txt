@@ -10,3 +10,6 @@ conflick master
 conflict
 >>>>>>> newbranch
 conflict
+
+
+test no-ff
